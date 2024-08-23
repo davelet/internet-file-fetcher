@@ -1,0 +1,9 @@
+[package]
+edition = "2021"
+name = "internet-file-fetcher"
+version = "0.1.0"
+description = "Fetches files from the internet"
+
+[dependencies]
+downloader = "0.2.7"
+chrono = "0.4"
